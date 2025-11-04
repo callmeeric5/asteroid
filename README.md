@@ -7,10 +7,13 @@
 ## Play
 
 `WASD`: Move
+
 `WhiteSpace`: Shoot
+
 `ESC`: Exit
 
 ## Game Rule
 
 Don't touch anything
+
 
