@@ -10,6 +10,7 @@
 `WhiteSpace`: Shoot
 `ESC`: Exit
 
-## Rule
+## Game Rule
 
 Don't touch anything
+
